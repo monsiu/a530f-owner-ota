@@ -1,0 +1,13 @@
+﻿{
+    "response":  [
+                     {
+                         "datetime":  1793408536,
+                         "filename":  "owner-v10-gapps-integrated-signed.zip",
+                         "id":  "17a7d54d173ed8b8bf731c8d6d25b3afd40dec8a7f7fb0d694e379dbd4c17f55",
+                         "romtype":  "UNOFFICIAL",
+                         "size":  1411650248,
+                         "url":  "https://github.com/monsiu/a530f-owner-ota/releases/download/owner-v10-20261031/owner-v10-gapps-integrated-signed.zip",
+                         "version":  "22.2"
+                     }
+                 ]
+}
