@@ -1,13 +1,5 @@
 {
     "response":  [
-                     {
-                         "datetime":  1793457776,
-                         "filename":  "owner-v11-ota-enabled-signed.zip",
-                         "id":  "6b68c13151d18456e1d8bcc726752c269d727b8baf289b8f09de1fc44f9bef8f",
-                         "romtype":  "UNOFFICIAL",
-                         "size":  1411846721,
-                         "url":  "https://github.com/monsiu/a530f-owner-ota/releases/download/owner-v11-20261031/owner-v11-ota-enabled-signed.zip",
-                         "version":  "22.2"
-                     }
+
                  ]
 }
