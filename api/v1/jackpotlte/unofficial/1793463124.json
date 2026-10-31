@@ -1,3 +1,13 @@
 {
-  "response": []
+  "response": [
+    {
+      "datetime": 1793468072,
+      "filename": "owner-v13-ota-test-signed.zip",
+      "id": "bf1e1fe88e0f17e36a506c7812a51099e4fe3c463710adadd304bddbdecb3487",
+      "romtype": "UNOFFICIAL",
+      "size": 1411631747,
+      "url": "https://github.com/monsiu/a530f-owner-ota/releases/download/owner-v13-test-20261031/owner-v13-ota-test-signed.zip",
+      "version": "22.2"
+    }
+  ]
 }
